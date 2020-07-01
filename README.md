@@ -12,8 +12,8 @@ Este é um repositório criado para exemplificar o uso do meu plugin de inventá
 ### Quais são os conteudos?
 | Projeto | Construct 2 | Consturct 3 |
 | - | - | - |
-| Arvore de Habilidade | [Arvore de habilidades.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Arvore%20de%20habilidades.capx) | [Arvore de habilidades.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Arvore%20de%20habilidades.c3p)
-| Manipulação JSON |  [JSON.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/JSON.capx) | [JSON.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/JSON.c3p)
+| Arvore de Habilidade | [Arvore de habilidades.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Arvore%20de%20habilidades.capx) | [Arvore de habilidades.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct3/Arvore%20de%20habilidades.c3p)
+| Manipulação JSON |  [JSON.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/JSON.capx) | [JSON.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct3/JSON.c3p)
 | Inventario Drang/Drop | [Inventario.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Inventario.capx) | [Inventario.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct3/Inventario.c3p)
 | Slots de vendas | [Lojinha.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Lojinha.capx) | [Lojinha.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct3/Lojinha.c3p)
 | Sistema de perguntas | [Quiz.capx](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct2/Quiz.capx) | [Quiz.c3p](https://github.com/FabioSmuu/ConstructExemplos/blob/master/Construct3/Quiz.c3p)
